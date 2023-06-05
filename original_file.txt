@@ -1,1 +1,7 @@
-Time to end the reign of cool_file.txt.
+Long after cool_file.txt was deleted, another edit.
+
+I will also
+Make this edit
+Across multiple lines
+
+Just because.
