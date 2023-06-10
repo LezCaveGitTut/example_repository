@@ -1,7 +1,7 @@
-Long after cool_file.txt was deleted, another edit.
-
 I will also
 Make this edit
 Across multiple lines
 
 Just because.
+
+This file has been modified by Lezalith's main account!
